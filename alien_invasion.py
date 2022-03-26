@@ -8,6 +8,7 @@ from ship import Ship
 import game_function as gf 
 
 # python3 alien_invasion.py
+# pip install -r requirements.txt
 
 def run_game():
 	#Иницилизирует pygame, settings и объекты экрана
