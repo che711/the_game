@@ -7,6 +7,8 @@ from button import Button
 from ship import Ship
 import game_function as gf 
 
+# python3 alien_invasion.py
+
 def run_game():
 	#Иницилизирует pygame, settings и объекты экрана
 	pygame.init()
